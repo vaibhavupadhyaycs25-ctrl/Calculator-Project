@@ -1,19 +1,16 @@
- # Java Calculator Project
+# Java Calculator
 
-A simple calculator built using Java.  
-This project performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+A simple calculator built using Java.
 
 ## Features
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
 ## Technologies Used
 - Java
-- Command Line
-- Notepad / Any Text Editor
+- OOP Concepts
 
-## How to Run
-
-1. Compile the program:
+## Author
+Vaibhav Upadhyay
